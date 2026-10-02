@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#1c2a1e"/>
+<rect x="150" y="60" width="500" height="300" rx="6" fill="#6b5a3e"/>
+<rect x="150" y="60" width="500" height="300" rx="6" fill="none" stroke="#3e3423" stroke-width="6"/>
+<g font-family="monospace" font-size="30" fill="#2e2718" text-anchor="middle">
+<text x="250" y="130">N G ? ?</text>
+<text x="250" y="180">? M P T ?</text>
+<text x="250" y="230">? ? K 4 ?</text>
+<text x="250" y="280">? ? ? ? ?</text>
+<text x="480" y="130" fill="#d8cba0">? ? ? ?</text>
+<text x="480" y="180" fill="#d8cba0">? ? ? ?</text>
+<text x="480" y="230" fill="#d8cba0">? ? ? ?</text>
+<text x="480" y="280" fill="#d8cba0">? ? ? ?</text>
+</g>
+<text x="400" y="415" text-anchor="middle" fill="#d8cba0" font-family="sans-serif" font-size="22">K4 — 97 characters, unsolved for 35 years</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f2f5f7"/>
+<rect x="40" y="60" width="720" height="330" rx="8" fill="#ffffff" stroke="#dbe4ea"/>
+<line x1="40" y1="225" x2="760" y2="225" stroke="#dbe4ea" stroke-width="1"/>
+<polyline points="60,225 110,225 130,225 140,180 150,270 160,200 170,225 220,225 240,225 250,140 262,310 274,190 286,225 340,225 360,225 372,205 384,245 396,225 450,225 470,225 480,100 494,350 508,160 522,225 580,225 600,225 612,215 624,235 636,225 700,225 740,225" fill="none" stroke="#c0392b" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="494" cy="100" r="7" fill="#c0392b"/>
+<text x="494" y="70" text-anchor="middle" fill="#c0392b" font-family="sans-serif" font-size="20" font-weight="bold">M6.6</text>
+<text x="400" y="420" text-anchor="middle" fill="#5a6f7d" font-family="sans-serif" font-size="22">The seismic log — one week of Earth's restlessness</text>
+</svg>

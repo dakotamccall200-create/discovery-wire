@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#0b2237"/>
+<circle cx="650" cy="80" r="2" fill="#fff"/><circle cx="120" cy="60" r="1.6" fill="#fff"/><circle cx="400" cy="40" r="2" fill="#fff"/><circle cx="720" cy="300" r="1.6" fill="#fff"/><circle cx="80" cy="350" r="2" fill="#fff"/><circle cx="500" cy="380" r="1.6" fill="#fff"/><circle cx="250" cy="120" r="1.4" fill="#cfe3ef"/>
+<circle cx="400" cy="225" r="95" fill="#3f7fae"/>
+<circle cx="370" cy="200" r="95" fill="#2c5f86" opacity="0.55"/>
+<ellipse cx="400" cy="225" rx="140" ry="34" fill="none" stroke="#8fb8d4" stroke-width="5" transform="rotate(-18 400 225)"/>
+<ellipse cx="400" cy="225" rx="140" ry="34" fill="none" stroke="#5d93bd" stroke-width="3" transform="rotate(-18 400 225)" stroke-dasharray="1 14" stroke-linecap="round"/>
+<g stroke="#39d0d8" stroke-width="6" fill="none" stroke-linecap="round">
+<path d="M180 150 q60 75 0 150"/>
+<path d="M150 120 q90 105 0 210"/>
+<path d="M120 90 q120 135 0 270"/>
+</g>
+<circle cx="180" cy="225" r="10" fill="#39d0d8"/>
+<text x="400" y="415" text-anchor="middle" fill="#cfe3ef" font-family="sans-serif" font-size="24">A radio signal, localized to a planet — not its star</text>
+</svg>
