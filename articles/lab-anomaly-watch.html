@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Lab That Never Sleeps: Inside Our 20-Minute Anomaly Watch &mdash; The Discovery Wire</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+<header class="top">
+<!-- AD SLOT: leaderboard -->
+<div class="brand">
+<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="26" fill="none" stroke="#0e7c86" stroke-width="3"/><ellipse cx="32" cy="32" rx="26" ry="10" fill="none" stroke="#0e7c86" stroke-width="2"/><ellipse cx="32" cy="32" rx="10" ry="26" fill="none" stroke="#0e7c86" stroke-width="2"/><circle cx="32" cy="32" r="5" fill="#0b3d5c"/></svg>
+<h1>THE DISCOVERY WIRE</h1>
+</div>
+<p class="tagline">Science, decoded &mdash; the experiments, the instruments, and the questions nobody has answered yet.</p>
+<nav><a href="index.html">Latest</a> <a href="about.html">About</a> <a href="https://www.facebook.com/profile.php?id=61594731912496">Facebook Page</a></nav>
+</header>
+<main><!-- AD SLOT: in-article-top -->
+<article class="story">
+<p class="date" style="color:#8f8268;font-size:.85rem;letter-spacing:1px">October 03, 2026</p>
+<h1>The Lab That Never Sleeps: Inside Our 20-Minute Anomaly Watch</h1>
+<p class="byline">By The Discovery Wire</p>
+<img class="hero" src="../assets/img/anomaly-watch-branded.webp" alt="The Lab That Never Sleeps: Inside Our 20-Minute Anomaly Watch"><p class="img-credit">Illustration by The Discovery Wire (generated artwork for this story)</p>
+<h1>The Lab That Never Sleeps: Inside Our 20-Minute Anomaly Watch</h1>
+<p>We built ourselves a machine that never sleeps — and every twenty minutes, it takes the pulse of the sky.</p>
+<p>This is one of the experiments running in our lab: an autonomous watch over three live, fully public data feeds. No private data, no secrets, no special access. Everything it reads is available to anyone with a web browser. Here&#x27;s the plumbing.</p>
+<h2>Feed one: the sky overhead</h2>
+<p>Live aircraft positions across the continental United States, via the <a href="https://opensky-network.org/">OpenSky Network</a> — a community-run, open air-traffic database. Every few seconds it updates where thousands of aircraft are. The watch listens for the transponder squawk codes that mean something unusual is happening on board: <strong>7500</strong> (unlawful interference), <strong>7600</strong> (radio failure), <strong>7700</strong> (general emergency). Most of the time there are none. A clean sky is a data point.</p>
+<h2>Feed two: the nation&#x27;s alert wire</h2>
+<p>The <a href="https://api.weather.gov/">National Weather Service&#x27;s active-alerts feed</a> carries every official alert in the country — hundreds of them, mostly ordinary: small-craft advisories, flood watches, wind warnings. The watch scans for the rare types: 911 telephone outages, civil emergency messages, law-enforcement warnings, radiological hazards, shelter-in-place orders. On a typical pass, the rarest of the rare is nowhere to be found — and that absence is the story.</p>
+<h2>Feed three: the ground itself</h2>
+<p>The public <a href="https://earthquake.usgs.gov/">USGS earthquake feed</a>, last-24-hour window, magnitude 2.5 and up. The watch looks for shaking that doesn&#x27;t fit — events whose human &quot;felt report&quot; counts are wildly out of proportion to their magnitude. A tremor nobody noticed is normal. A tremor everyone noticed is a note for the next pass.</p>
+<h2>What happens every twenty minutes</h2>
+<p>Pull all three feeds. Compare each reading against its baseline. Write an anomaly digest — a plain-English memo of what was seen, what was clean, and what deserves a second look on the next run. Track anything strange across runs: a blip that persists gets escalated; a blip that fades is just logged.</p>
+<p>That&#x27;s it. That&#x27;s the experiment. Boring, relentless, honest.</p>
+<h2>What this is NOT</h2>
+<p>It is not a warning system, and it is not a prediction machine. We don&#x27;t issue public alerts, and we don&#x27;t forecast anything — nobody can. The lab&#x27;s own charter says it plainly: observation, not warning. A telescope, not a siren.</p>
+<p>We&#x27;ll be sharing dispatches from the watch as it runs — the process, the weirdness of what counts as &quot;normal&quot; at 3 AM, and the occasional genuinely strange page in the log. No hype. Just the instruments, read out loud.</p>
+<!-- AD SLOT: in-article-bottom -->
+<p class="source-line">Source: OpenSky Network, National Weather Service, USGS (all public feeds)</p>
+<a class="back" href="../index.html">&larr; Back to latest stories</a>
+</article></main>
+<footer>
+<!-- AD SLOT: footer -->
+<p>&copy; 2026 The Discovery Wire. Stories first published on our <a href="https://www.facebook.com/profile.php?id=61594731912496">Facebook page</a>.</p>
+<p>Tip the desk: stories develop fast &mdash; check back nightly.</p>
+</footer>
+</body>
+</html>
